@@ -5,10 +5,10 @@
 - [x] Explict style CSharp
 - [x] Implicit style XAML
 - [x] Implicit style CSharp
-- [-] Global style
-- [-] Style inheritance
-- [-] Dynamic style
-- [-] Device style
+- [ ] Global style
+- [ ] Style inheritance
+- [ ] Dynamic style
+- [ ] Device style
 
 #### Reference
 
